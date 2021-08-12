@@ -108,4 +108,4 @@ Met minder uitlijning:
 Task list
 * [x] Task 1 (checked)
 * [ ] Task 2 (unchecked)
-* [] Task 3
+* [ ] Task 3
